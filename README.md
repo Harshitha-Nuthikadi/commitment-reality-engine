@@ -74,7 +74,8 @@ Before creating a commitment, the system:
 ## Screenshots
 
 ### 🔐 Register Page
-![Register]("C:\Users\Harshitha\Pictures\Screenshots\Screenshot 2026-02-26 223136.png")
+![Register]("![Uploading Screenshot 2026-02-26 223136.png…]()
+")
 
 ### 🔑 Login Page
 ![Login](./images/login.png)
