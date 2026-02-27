@@ -75,30 +75,24 @@ Before creating a commitment, the system:
 
 ### 🔐 Register Page
 <br>
-<img width="1920" height="1080" alt="Screenshot 2026-02-26 223136" src="https://github.com/user-attachments/assets/58bcbce0-7fb2-4e96-b7e0-bd0d0ba00806" />
+<img width="1920" height="897" alt="Screenshot 2026-02-26 223136" src="https://github.com/user-attachments/assets/688c4b58-4e05-4056-ae2a-8e70c01eef22" />
 
 ### 🔑 Login Page
 <br>
- <img width="1920" height="1080" alt="Screenshot 2026-02-26 223113" src="https://github.com/user-attachments/assets/c0c9cd5f-8ace-44c2-9899-a0a66b074ced" />
-
+<img width="1920" height="913" alt="Screenshot 2026-02-26 223113" src="https://github.com/user-attachments/assets/3390b9db-927d-440f-b34f-d9a468a23a24" />
 
 ### 📊 Dashboard – Reality Score View
 <br>
-<img width="1920" height="1080" alt="Screenshot 2026-02-26 223355" src="https://github.com/user-attachments/assets/cb56a03d-d6c5-4d02-a44e-5505b1ace627" />
-
+<img width="1920" height="910" alt="Screenshot 2026-02-26 223355" src="https://github.com/user-attachments/assets/3b4bc4b9-a6fd-4294-afa7-6e9847ff3329" />
 
 ### 📝 Dashboard – New Commitment & Warning
 <br>
- <img width="1920" height="1080" alt="Screenshot 2026-02-26 224145" src="https://github.com/user-attachments/assets/d18eac61-121d-4679-8498-1b05d9110463" />
-
+<img width="1920" height="910" alt="Screenshot 2026-02-26 224145" src="https://github.com/user-attachments/assets/81fca4cc-68bb-4361-ba6d-af81c290fa7e" />
  
 
 ### ✅ Dashboard – Commitments Overview
 <br>
-<img width="1920" height="1080" alt="Screenshot 2026-02-26 224004" src="https://github.com/user-attachments/assets/c4c79c9b-d798-4644-b6cf-ba853eca7069" />
-
-
-
+<img width="1920" height="910" alt="Screenshot 2026-02-26 224004" src="https://github.com/user-attachments/assets/92d4d421-aaec-4bd1-b030-5805590eebe4" />
 
 
 ---
