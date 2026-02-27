@@ -1,4 +1,4 @@
-## 🔹 Commitment Reality Engine (CRE)🎯
+## 🔹 Commitment Reality Engine (CRE)
 
 Commitment Reality Engine (CRE) is a behavioral tracking system that measures the gap between what you *plan* and what you *actually do*.
 
@@ -190,7 +190,7 @@ Built as a behavioral tracking system with bias detection logic.
 
 ## 🔹 Author
 
-Harshitha Nuthikadi 👩🏻‍💻
+Harshitha Nuthikadi 
 Full Stack Developer (Learning & Building)
 
 ---
