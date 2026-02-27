@@ -1,4 +1,4 @@
-# Commitment Reality Engine (CRE)🎯
+## 🔹 Commitment Reality Engine (CRE)🎯
 
 Commitment Reality Engine (CRE) is a behavioral tracking system that measures the gap between what you *plan* and what you *actually do*.
 
@@ -9,7 +9,7 @@ This project focuses on accountability, realistic estimation, and bias correctio
 
 ---
 
-## Core Concept
+## 🔹 Core Concept
 
 Most people consistently:
 
@@ -21,7 +21,7 @@ CRE tracks your commitments, compares estimated vs actual effort, calculates a R
 
 ---
 
-## Features 
+## 🔹 Features 
 
 ### 1. Authentication System
 - User Registration
@@ -71,25 +71,31 @@ Before creating a commitment, the system:
 
 ---
 
-## Screenshots
+## 🔹 Screenshots
 
 ### 🔐 Register Page
+
 <img width="1920" height="1080" alt="Screenshot 2026-02-26 223136" src="https://github.com/user-attachments/assets/58bcbce0-7fb2-4e96-b7e0-bd0d0ba00806" />
 
 ### 🔑 Login Page
+
  <img width="1920" height="1080" alt="Screenshot 2026-02-26 223113" src="https://github.com/user-attachments/assets/c0c9cd5f-8ace-44c2-9899-a0a66b074ced" />
 
 
 ### 📊 Dashboard – Reality Score View
+
 <img width="1920" height="1080" alt="Screenshot 2026-02-26 223355" src="https://github.com/user-attachments/assets/cb56a03d-d6c5-4d02-a44e-5505b1ace627" />
 
 
 ### 📝 Dashboard – New Commitment & Warning
-<img width="1920" height="1080" alt="Screenshot 2026-02-26 224004" src="https://github.com/user-attachments/assets/c4c79c9b-d798-4644-b6cf-ba853eca7069" />
+
+ <img width="1920" height="1080" alt="Screenshot 2026-02-26 224145" src="https://github.com/user-attachments/assets/d18eac61-121d-4679-8498-1b05d9110463" />
+
  
 
 ### ✅ Dashboard – Commitments Overview
- <img width="1920" height="1080" alt="Screenshot 2026-02-26 224145" src="https://github.com/user-attachments/assets/d18eac61-121d-4679-8498-1b05d9110463" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-26 224004" src="https://github.com/user-attachments/assets/c4c79c9b-d798-4644-b6cf-ba853eca7069" />
 
 
 
@@ -97,7 +103,7 @@ Before creating a commitment, the system:
 
 ---
 
-## Tech Stack
+## 🔹 Tech Stack
 
 Frontend:
 - React.js
@@ -113,7 +119,7 @@ Database:
 
 ---
 
-## How It Works (Logic Flow)
+## 🔹 How It Works (Logic Flow)
 
 1. User registers and logs in.
 2. User creates a commitment with estimated effort.
@@ -129,7 +135,7 @@ Database:
 
 ---
 
-## Why This Project Matters
+## 🔹 Why This Project Matters
 
 Most productivity tools track tasks.
 
@@ -146,7 +152,7 @@ It is not just a task manager — it is a commitment evaluation engine.
 
 ---
 
-## Future Improvements
+## 🔹 Future Improvements
 
 - Graphical analytics dashboard
 - Effort trend visualization
@@ -155,7 +161,7 @@ It is not just a task manager — it is a commitment evaluation engine.
 
 ---
 
-## Installation
+## 🔹 Installation
 
 Clone the repository:
 
@@ -181,14 +187,14 @@ npm start
 
 ---
 
-## Project Status
+## 🔹 Project Status
 
 Active Development  
 Built as a behavioral tracking system with bias detection logic.
 
 ---
 
-## Author
+## 🔹 Author
 
 Harshitha Nuthikadi 👩🏻‍💻
 Full Stack Developer (Learning & Building)
