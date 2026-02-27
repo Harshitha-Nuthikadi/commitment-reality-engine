@@ -74,7 +74,7 @@ Before creating a commitment, the system:
 ## Screenshots
 
 ### 🔐 Register Page
-![Register](<img width="1920" height="1080" alt="Screenshot 2026-02-26 223136" src="https://github.com/user-attachments/assets/58bcbce0-7fb2-4e96-b7e0-bd0d0ba00806" />
+![Register]("<img width="1920" height="1080" alt="Screenshot 2026-02-26 223136" src="https://github.com/user-attachments/assets/58bcbce0-7fb2-4e96-b7e0-bd0d0ba00806" />"
 ))
 
 ### 🔑 Login Page
